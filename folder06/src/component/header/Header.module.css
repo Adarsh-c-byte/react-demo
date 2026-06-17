@@ -1,0 +1,19 @@
+.header{
+    background-color: crimson;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 5px;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.btn{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+}
+.logo{
+    text-decoration: underline;
+}
