@@ -11,10 +11,11 @@ html,body{
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: black;
 }
 .screen{
-  background-color: aqua;
-  color: black;
+  background-color: red;
+  color: white;
   width: fit-content;
   height: 300px;
   width: 300px;
@@ -23,11 +24,11 @@ html,body{
   align-items: center;
   font-size: 100px;
   margin: 10px;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 .btn{
-  background-color: aqua;
-  color: black;
+  background-color: red;
+  color: white;
   padding: 10px 12px;
   border: none;
   border-radius: 5px;
